@@ -1,0 +1,71 @@
+Define :
+1 = Booting process 
+2 = resolution
+3 = refresh rate
+4 = super , micro , mini computers 
+5 = hardware , softwear , acccs , excel
+6 = ALU , CU 
+
+
+Booting process: Jab aap computer on karte hain, to yeh process hota hai jisme computer apna system load karta hai.
+
+Resolution: Screen pe jo image dikhayi deti hai, uski clarity, jo pixels ke count se decide hoti hai.
+
+Refresh rate: Yeh batata hai ki screen par ek second me kitni baar image update hoti hai.
+
+Super, micro, mini computers:
+
+Supercomputers: Bahut powerful computers jo complex kaam karte hain.
+Microcomputers: Chhote personal computers, jaise desktop ya laptop.
+Minicomputers: Medium size computers, jo businesses ke liye use hote hain.
+Hardware, software, access, Excel:
+
+Hardware: Computer ke physical parts, jaise CPU, monitor, keyboard.
+Software: Wo programs jo computer par chalte hain, jaise games ya apps.
+Access: Kisi cheez ko use karne ki permission.
+Excel: Ek software jo numbers ko calculate karne aur data ko manage karne ke liye use hota hai.
+
+
+ALU, CU:
+ALU: Yeh part computer ka hai jo calculations aur logic ka kaam karta hai.
+CU: Yeh part computer ka hota hai jo instructions ko samajhkar unhe execute karta hai.
+
+
+7 = primary and secondry memory 
+8 = RAM & ROM its type 
+9 = LLL & HLL
+10 = Virus
+11 = Interpreter computer and assembler 
+12 = DBMS, PPP , WDocument 
+13 = OS , System S/W , Apps/w
+
+
+Primary and Secondary Memory:
+Primary memory: Yeh temporary memory hoti hai (jaise RAM) jo computer ke chalne tak data rakhti hai.
+Secondary memory: Yeh permanent memory hoti hai (jaise hard drive), jisme data long time tak store hota hai.
+RAM & ROM its types:
+
+RAM (Random Access Memory): Temporary memory jo data ko temporarily store karti hai jab aap koi program chalate hain. Types: DRAM (Dynamic RAM), SRAM (Static RAM).
+ROM (Read-Only Memory): Permanent memory jo booting aur basic functions ke liye data store karti hai. Types: PROM, EPROM, EEPROM.
+
+LLL & HLL:
+LLL (Low-Level Language): Yeh programming languages hain jo hardware ke saath directly interact karte hain, jaise Assembly Language.
+HLL (High-Level Language): Yeh programming languages hain jo user-friendly hote hain, jaise Python, Java.
+
+Virus: Yeh ek harmful program hota hai jo aapke computer ko damage kar sakta hai ya data chura sakta hai.
+
+Interpreter and Assembler:
+Interpreter: Yeh ek program hai jo line-by-line source code ko execute karta hai, jaise Python interpreter.
+Assembler: Yeh low-level language (assembly) ko machine code mein convert karta hai.
+
+DBMS, PPP, Word Document:
+DBMS (Database Management System): Software jo data ko store aur manage karta hai, jaise MySQL.
+PPP (Point-to-Point Protocol): Networking protocol jo direct connection establish karta hai do devices ke beech.
+Word Document: Microsoft Word mein banaye gaye documents jo text aur images rakhte hain.
+
+
+OS, System S/W, Apps S/W:
+OS (Operating System): Software jo computer ke resources ko manage karta hai, jaise Windows, macOS.
+System S/W (System Software): Aise software jo computer ki basic functioning ke liye zaroori hote hain, jaise OS aur drivers.
+Apps S/W (Application Software): Wo software jo specific tasks ke liye use hote hain, jaise Word, Excel.
+
