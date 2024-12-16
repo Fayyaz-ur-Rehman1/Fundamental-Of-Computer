@@ -14,12 +14,11 @@ Resolution: Screen pe jo image dikhayi deti hai, uski clarity, jo pixels ke coun
 Refresh rate: Yeh batata hai ki screen par ek second me kitni baar image update hoti hai.
 
 Super, micro, mini computers:
-
 Supercomputers: Bahut powerful computers jo complex kaam karte hain.
 Microcomputers: Chhote personal computers, jaise desktop ya laptop.
 Minicomputers: Medium size computers, jo businesses ke liye use hote hain.
-Hardware, software, access, Excel:
 
+Hardware, software, access, Excel:
 Hardware: Computer ke physical parts, jaise CPU, monitor, keyboard.
 Software: Wo programs jo computer par chalte hain, jaise games ya apps.
 Access: Kisi cheez ko use karne ki permission.
@@ -43,8 +42,8 @@ CU: Yeh part computer ka hota hai jo instructions ko samajhkar unhe execute kart
 Primary and Secondary Memory:
 Primary memory: Yeh temporary memory hoti hai (jaise RAM) jo computer ke chalne tak data rakhti hai.
 Secondary memory: Yeh permanent memory hoti hai (jaise hard drive), jisme data long time tak store hota hai.
-RAM & ROM its types:
 
+RAM & ROM its types:
 RAM (Random Access Memory): Temporary memory jo data ko temporarily store karti hai jab aap koi program chalate hain. Types: DRAM (Dynamic RAM), SRAM (Static RAM).
 ROM (Read-Only Memory): Permanent memory jo booting aur basic functions ke liye data store karti hai. Types: PROM, EPROM, EEPROM.
 
