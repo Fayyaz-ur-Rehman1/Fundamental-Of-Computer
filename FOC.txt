@@ -429,3 +429,193 @@ BIOS (Basic Input Output System) ek program hai jo computer ke start hone pe har
 
 Yeh motherboard ke ROM chip mein stored hota hai.
 BIOS ka kaam: Computer ko boot karna aur hardware initialize karna.
+
+---------------------------------------------------------------------------------------------------
+
+Section A
+
+Q 1 Attempt all Questions (2*10=20) 
+a) Define computer and why it is known as Data 
+Processor.
+
+Computer: Ek electronic machine hai jo data ko process karta hai aur output deta hai.
+Data Processor: Isko data processor isliye kehte hain kyunki yeh raw data ko meaningful information mein badal deta hai.
+
+
+b) Define Boot strap?
+
+Bootstrap: Jab computer ko power on karte hain, toh OS ko load karne ka process "Bootstrap" kehlata hai.
+
+
+c) What is the main function of the command 
+interpreter? 
+
+Command Interpreter: Yeh user ke commands ko samajh kar OS ko execute karne ke liye instructions deta hai. Example: CMD (Command Prompt).
+
+
+d) What do you mean by an Operating System? 
+
+Operating System: Ek system software hai jo hardware aur software ke beech coordination karta hai aur user ko interface provide karta hai.
+Example: Windows, Linux.
+
+
+e) Write circuit element used in second generation of 
+computer?
+
+Transistor use kiya jata tha dusri generation ke computers mein.
+
+
+f) What is antivirus?
+
+Antivirus: Yeh software hota hai jo viruses aur malware ko detect, prevent aur remove karta hai.
+Example: Avast, Norton.
+
+
+g) Write example of Mainframe Computer? 
+
+Example: IBM Z-Series.
+
+
+h) What is the Application Software? Give example.
+
+Application Software: Yeh software specific tasks ke liye banaye jaate hain.
+Example: Microsoft Word, Photoshop.
+
+
+i) What do you mean by output device? Name any 
+three output device name. 
+
+Output Device: Jo processed data ko display karta hai.
+Examples: Monitor, Printer, Speaker.
+
+
+j) Explain kernel in operating system? 
+
+Output Device: Jo processed data ko display karta hai.
+Examples: Monitor, Printer, Speaker.
+
+
+Section B
+
+Q2 Draw Block Diagram of Computer system and explain 
+ them. (10 Marks) 
+
+Input → Processing (CPU) → Output  
+            ↓  
+         Memory  
+Input Unit: Data computer ko input karte hain. Example: Keyboard, Mouse.
+CPU: Data ko process karta hai.
+ALU: Calculation aur logic perform karta hai.
+Control Unit: Data ke flow ko control karta hai.
+Output Unit: Result display karta hai. Example: Monitor, Printer.
+Memory: Temporary aur permanent storage ke liye hota hai
+
+   OR 
+
+What is Hardware? Explain all Input devices with example. (10 Marks)
+
+Hardware: Computer ke physical components.
+Input Devices: Jo data input karte hain:
+Keyboard: Type karne ke liye.
+Mouse: Click aur navigate karne ke liye.
+Scanner: Document ko scan karne ke liye.
+
+
+
+ Q3. What do you mean by Printer? Explain all types of 
+ printers?
+
+Printer: Output device jo result ko paper par print karta hai.
+Types:
+Impact Printer: Direct contact karta hai paper se. Example: Dot Matrix Printer.
+Non-Impact Printer: Contact nahi karta paper se. Example: Inkjet, Laser Printer.
+
+ OR 
+
+What do you mean by Computer? Explain characteristics  and classification of computer? (10 Marks)
+
+Computer ke Characteristics aur Classification:
+Characteristics:
+Speed
+Accuracy
+Automation
+Storage
+
+Classification:
+Supercomputer
+Mainframe Computer
+Minicomputer
+Microcomputer
+
+
+
+Q4. What is a memory? Explain various type of Memory?
+
+Memory: Data ko temporarily ya permanently store karne ke liye.
+Primary Memory:
+RAM: Temporary memory.
+ROM: Permanent memory.
+Secondary Memory: Hard Drive, SSD.
+Cache Memory: Fastest memory jo CPU ke close hoti hai.
+
+OR
+
+Difference between: (2.5*4=10 Marks) 
+ Firewall and Antivirus 
+ SRAM and DRAM 
+ Auxiliary Memory and Cache Memory 
+ Warm boot and cold boot 
+
+ Firewall vs Antivirus |
+Firewall unauthorized network access ko block karta hai.
+Antivirus viruses aur malware ko remove karta hai.
+
+| SRAM vs DRAM |
+SRAM fast aur costly hoti hai. DRAM slow aur cheap hoti hai.
+
+| Auxiliary Memory vs Cache Memory |
+Auxiliary Memory data ko permanently store karti hai.
+Cache Memory temporary aur fast memory hoti hai.
+
+| Warm Boot vs Cold Boot |
+Warm Boot system ko restart karta hai (power off nahi hota).
+Cold Boot computer ko completely off karke start karta hai.
+
+
+
+Q5. Explain different types of Software with example. 
+ (10 Marks) 
+
+ System Software: Hardware aur system ko manage karta hai. Example: OS.
+Application Software: Specific tasks ke liye. Example: MS Word.
+Utility Software: System maintenance ke liye. Example: Antivirus.
+
+ OR
+
+ What is language translator? Write difference between 
+ them. (10 Marks) 
+
+Assembler: Assembly language ko machine code mein convert karta hai.
+Compiler: High-level code ko machine code mein ek saath convert karta hai.
+Interpreter: Code ko line-by-line execute karta hai.
+
+
+
+ Q6. What do you mean by DOS? Explain Internal and 
+ External Commands of DOS?
+
+ DOS (Disk Operating System): Ek command-line based OS hai.
+Internal Commands: Built-in commands. Example: DIR, COPY.
+External Commands: DOS disk se load hoti hain. Example: FORMAT, DISKCOPY.
+
+  OR
+
+Define Virus and types of Virus? Explain working 
+ principals of virus.
+
+Virus ek malicious program hai jo apne aapko replicate karke computer system ko harm karta hai, files corrupt karta hai aur system performance ko slow kar deta hai.
+
+Types of Virus:
+File Infector Virus: Executable files ko infect karta hai.
+Boot Sector Virus: Boot sector ko target karta hai.
+Macro Virus: Document macros ko infect karta hai.
