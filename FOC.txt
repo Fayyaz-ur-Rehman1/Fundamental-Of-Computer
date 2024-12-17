@@ -167,7 +167,11 @@ Yeh simple language me computer ka complete explanation hai! 😊
               iii = differ 
               iv = plotter
 4 = utility S/W
-               i = Planguage = i , ii , iii , iv
+               C
+               C++
+               Python
+               Java
+
 5 = virus indetails
 6 = OS & Functions
 
@@ -239,3 +243,186 @@ User Interface:
 GUI (Graphical User Interface): Icons aur windows ke through easy use karta hai.
 CLI (Command Line Interface): Commands type karke computer ko chalata hai.
 
+-----------------------------------------------------------------------------------------------------------
+
+PART: A
+Q1. Define digital computer? [2]
+Q2. Write the types of computers? [2]
+Q3. Define MICR ,OCR? [2]
+Q4. Difference between primary and 
+secondary memory? [2]
+Q5. What is language translator? [2]
+Q6. What is output Device? [2]
+Q7. Write the component of Computer? [2]
+Q8. Difference between H/w and S/w? [2]
+Q9. Define SRAM and DRAM. [2]
+Q10.Define non–impact printer? [2]
+
+
+Q1. Define Digital Computer? [2 Marks]
+Digital Computer ek aise computer ko kehte hain jo data ko 0 aur 1 (binary form) mein samajhta hai. Yeh high speed pe kaam karta hai aur calculations, data processing, aur decision making karta hai.
+
+Q2. Write the Types of Computers? [2 Marks]
+Computers ke 4 main types hain:
+
+Super Computer: Bohot powerful aur high-speed wale (scientific research ke liye).
+Mainframe Computer: Bade companies aur banks ke liye (bohot saare users ka data handle karta hai).
+Mini Computer: Chote organizations ke liye (medium size tasks).
+Micro Computer: Personal use ke liye (PCs, Laptops).
+
+
+Q3. Define MICR and OCR? [2 Marks]
+MICR (Magnetic Ink Character Recognition): Yeh bank cheques ke niche likhe numbers ko padhne ke liye use hota hai jo magnetic ink mein likhe hote hain.
+OCR (Optical Character Recognition): Yeh printed ya handwritten text ko scan karke computer-readable text mein badalta hai.
+
+
+Q4. Difference Between Primary and Secondary Memory? [2 Marks]
+Primary Memory	Secondary Memory
+Temporary memory hoti hai (RAM).	Permanent memory hoti hai (HDD/SSD).
+Fast aur directly CPU ke saath connected hoti hai.	Slow aur CPU ko indirectly access karti hai.
+Data power off hone pe delete ho jata hai.	Data save rehta hai even after power off.
+
+
+Q5. What is Language Translator? [2 Marks]
+Language Translator ek software hai jo high-level programming languages (jaise C, Java) ko machine language (binary code) mein convert karta hai taaki computer use samajh sake.
+Types:
+
+Compiler
+Interpreter
+Assembler
+
+
+Q6. What is Output Device? [2 Marks]
+Output Device wo hota hai jo computer ke processed data ko user ko dikhata hai ya print karta hai. Examples:
+
+Monitor: Screen pe results dikhata hai.
+Printer: Paper pe results print karta hai.
+
+
+Q7. Write the Components of Computer? [2 Marks]
+Computer ke 4 main components hote hain:
+
+Input Devices: Data input ke liye (Keyboard, Mouse).
+Processing Unit: Data process karne ke liye (CPU).
+Memory: Data store karne ke liye (RAM, Hard Disk).
+Output Devices: Result dikhane ke liye (Monitor, Printer).
+
+
+Q8. Difference Between Hardware and Software? [2 Marks]
+Hardware (H/W)	Software (S/W)
+Physical part jo touch kiya ja sakta hai.	Programs aur instructions jo computer ko chalate hain.
+Example: Keyboard, Mouse, Monitor.	Example: MS Word, Windows, Games.
+
+
+Q9. Define SRAM and DRAM? [2 Marks]
+SRAM (Static RAM):
+Fast memory hoti hai.
+Zyada expensive hoti hai.
+Cache memory mein use hoti hai.
+DRAM (Dynamic RAM):
+Thodi slow hoti hai.
+Kam cost hoti hai.
+Main memory (RAM) mein use hoti hai.
+
+
+Q10. Define Non-Impact Printer? [2 Marks]
+Non-Impact Printer wo printers hote hain jo paper pe touch kiye bina print karte hain. Inme ink ya toner use hota hai. Examples:
+
+Laser Printer: High-quality print aur fast.
+Inkjet Printer: Ink ki madad se high-quality color print deta hai.
+
+
+PART: B
+Q1. Define Hybrid computer? [2]
+Q2. Write characteristic of computer? [2]
+Q3. Explain computer Generations? [2]
+Q4. Write Difference between input and 
+output device ? [2]
+Q5. Draw the block diagram of computer? [2]
+Q6. Define Impact printer? [2]
+Q7. Define OMR, Bar code reader? [2]
+Q8. Define types of EPROM,EEPROM? [2]
+Q9. What is primary and secondary 
+memory? [2]
+Q10. Explain BIOS? [2]
+
+
+Q1. Define Hybrid Computer? [2 Marks]
+Hybrid Computer wo computer hai jo digital aur analog computers dono ki qualities ko combine karta hai.
+
+Example: Hospital ke machines jo patients ke heart rate monitor karte hain (analog) aur uska calculation karte hain (digital).
+
+
+Q2. Write Characteristics of Computer? [2 Marks]
+Computers ki kuch main qualities yeh hain:
+
+Speed: Bahut fast kaam karta hai.
+Accuracy: Galti ke bina kaam karta hai.
+Automation: Ek baar program set karne ke baad khud kaam karta hai.
+Storage: Bahut saara data store kar sakta hai.
+Multitasking: Ek time pe kai kaam kar sakta hai.
+
+
+Q3. Explain Computer Generations? [2 Marks]
+Computer ke 5 Generations hain:
+
+First Generation (1940-1956): Vacuum tubes use hote the.
+Second Generation (1956-1963): Transistors ka use hua.
+Third Generation (1964-1971): IC (Integrated Circuit) ka istemal hua.
+Fourth Generation (1971-Present): Microprocessors ka use hua.
+Fifth Generation (Present-Future): Artificial Intelligence (AI) pe kaam ho raha hai.
+
+
+Q4. Difference Between Input and Output Devices? [2 Marks]
+Input Device	Output Device
+Data ko computer ke andar dalta hai.	Computer ka result dikhata hai.
+Example: Keyboard, Mouse.	Example: Monitor, Printer.
+
+
+Q5. Draw the Block Diagram of Computer? [2 Marks]
+Block diagram kuch aisa hota hai:
+
+css
+Copy code
+[Input Device] → [Processing Unit (CPU)] → [Output Device]  
+                          ↑  
+                     [Memory]  
+Input Device: Keyboard, Mouse
+Processing Unit: CPU (ALU + CU)
+Memory: RAM/ROM
+Output Device: Monitor, Printer
+
+
+Q6. Define Impact Printer? [2 Marks]
+Impact Printer wo printers hain jo paper ke contact mein aake print karte hain.
+
+Example: Dot Matrix Printer, Line Printer
+Yeh usually low-quality print dete hain aur slow hote hain.
+
+
+Q7. Define OMR and Bar Code Reader? [2 Marks]
+OMR (Optical Mark Recognition): Yeh forms ke filled circles ko scan karke data read karta hai. Example: Exam sheets.
+Bar Code Reader: Yeh barcodes ko scan karke data ko computer mein bhejta hai. Example: Mall ya grocery billing systems.
+Q8. Define Types of EPROM and EEPROM? [2 Marks]
+
+
+EPROM (Erasable Programmable Read-Only Memory): Isko UV (Ultra-Violet) light se erase karke dobara program kiya ja sakta hai.
+EEPROM (Electrically Erasable Programmable Read-Only Memory): Isko electrical signals ke through erase aur reprogram kiya ja sakta hai.
+
+
+Q9. What is Primary and Secondary Memory? [2 Marks]
+Primary Memory:
+Temporary memory hoti hai.
+Fast aur CPU ke direct access mein hoti hai.
+Example: RAM (Random Access Memory).
+Secondary Memory:
+Permanent memory hoti hai.
+Data save rehta hai power off ke baad bhi.
+Example: Hard Disk, Pen Drive.
+
+
+Q10. Explain BIOS? [2 Marks]
+BIOS (Basic Input Output System) ek program hai jo computer ke start hone pe hardware ko check karta hai aur Operating System ko load karne ka kaam karta hai.
+
+Yeh motherboard ke ROM chip mein stored hota hai.
+BIOS ka kaam: Computer ko boot karna aur hardware initialize karna.
