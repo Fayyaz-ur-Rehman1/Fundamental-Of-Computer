@@ -68,3 +68,174 @@ OS (Operating System): Software jo computer ke resources ko manage karta hai, ja
 System S/W (System Software): Aise software jo computer ki basic functioning ke liye zaroori hote hain, jaise OS aur drivers.
 Apps S/W (Application Software): Wo software jo specific tasks ke liye use hote hain, jaise Word, Excel.
 
+
+
+1. Computer kya hai?
+Computer ek electronic machine hai jo data ko process karta hai, calculations karta hai aur instructions ke according kaam karta hai.
+
+
+2. Time
+Computer ka time ke sath development hua hai, purane dino ke bade machines se lekar aaj ke modern computers tak.
+
+
+3. Main Components
+Input: Jo data computer ko diya jata hai (e.g. keyboard, mouse).
+Processing Unit: Jahan computer ka kaam hota hai (CPU).
+Memory: Data store karne ke liye. Temporary (RAM) aur permanent (Hard Disk).
+Output: Jo result dikhata hai (e.g. monitor, printer).
+
+
+4. VT, T, IC, LSI, VLSI Examples
+VT (Vacuum Tube): Pehli generation ke computers. Example: ENIAC.
+T (Transistor): Doosri generation ke computers. Example: IBM 1401.
+IC (Integrated Circuit): Teesri generation ke computers. Example: IBM 360.
+LSI (Large Scale Integration): Chauthi generation. Example: Intel 8085.
+VLSI (Very Large Scale Integration): Paachvi generation ke modern computers. Example: Laptop, PC.
+
+
+5. Size, Speed, Memory
+
+i. Punch Card:
+Pehle data store karne ke liye cards ka use hota tha.
+
+ii. Sequential:
+Data ko ek sequence me access kiya jata tha. Example: Magnetic Tape.
+
+iii. Magnetic Tape/Disc:
+Purane time me storage ke liye magnetic tapes aur discs ka use hota tha.
+
+iv. Random:
+Randomly aur jaldi se data access hota hai.
+
+FD: Floppy Disk
+HD: Hard Disk
+CD: Compact Disc
+DVD: Digital Versatile Disc
+BRD: Blu-ray Disc
+
+6. Characteristics (Khaas Baat)
+Speed: Bahut fast kaam karta hai.
+Accuracy: Galti nahi karta, sahi answer deta hai.
+Automation: Apne aap instructions follow karta hai.
+Storage: Data ko save karne ki shakti hoti hai.
+Versatility: Har kaam ke liye use ho sakta hai.
+Connectivity: Internet ya dusre devices se connect hota hai.
+
+7. Limitation (Kami)
+Soch nahi sakta: Sirf instructions ke basis par kaam karta hai.
+Electricity zaroori: Bijli ke bina nahi chalta.
+Maintenance: Time to time repair aur updates chahiye hote hain.
+
+8. Generation (PeeDhi)
+Pehli Generation: Vacuum Tubes (1940-1956).
+Doosri Generation: Transistors (1956-1963).
+Teesri Generation: IC (1964-1971).
+Chauthi Generation: Microprocessor (1971-se ab tak).
+Paachvi Generation: Artificial Intelligence (Abhi ke time ka).
+
+9. Types
+
+i. Size:
+Microcomputer (Personal Computer, Laptop)
+Minicomputer (Chhote business ke liye)
+Mainframe (Bade companies ke liye)
+Supercomputer (Sabse powerful, science ke kaam ke liye).
+
+ii. Working:
+Analog Computer: Continuous data (e.g., temperature).
+Digital Computer: Binary numbers pe kaam karta hai (0 aur 1).
+Hybrid Computer: Analog aur Digital dono ka combination.
+
+iii. Purpose:
+General Purpose (GP): General kaam ke liye (e.g. office work, study).
+Special Purpose (SP): Khaas kaam ke liye (e.g. weather forecasting, medical machines).
+Yeh simple language me computer ka complete explanation hai! 😊
+
+
+1 = input
+             i = scaner Barcode 
+             ii = keyboard
+             iii = mouse 
+             iv = micr
+             v = ocr 
+             vi = omr
+2 = procesing
+              i = Cpu , alu , cu , mu = ram
+3 = output
+              i = moniter
+              ii = printer and its type
+              iii = differ 
+              iv = plotter
+4 = utility S/W
+               i = Planguage = i , ii , iii , iv
+5 = virus indetails
+6 = OS & Functions
+
+
+1. Input Devices (Data dene wale tools):
+Yeh wo devices hain jo computer ko data dene ke kaam aate hain:
+
+Barcode Scanner: Dukan ya mall me barcode ko scan karke product ki detail computer me bhejta hai.
+Keyboard: Typing ke liye istemal hota hai.
+Mouse: Computer screen pe cursor ko control karta hai.
+Mic (Microphone): Awaz record karne ke liye use hota hai.
+OCR (Optical Character Recognition): Likhe hue text ya image ko digital text me badal deta hai. Example: Photo ya paper ka likha text computer pe type hota dikhana.
+OMR (Optical Mark Recognition): Exam sheets jaise forms me filled circles ko scan karke result nikalta hai.
+
+
+2. Processing (Data ko process karna):
+Data ko process karne ke liye computer ke andar kuch main parts hote hain:
+
+CPU (Central Processing Unit): Isko computer ka dimaag kehte hain, yeh saara kaam control karta hai.
+ALU (Arithmetic Logic Unit): Calculation aur logic wale kaam karta hai. Example: Addition, Subtraction.
+CU (Control Unit): Yeh sare parts ko samjhata hai ki kaam kaise karna hai.
+MU (Memory Unit - RAM): Computer ki temporary memory hoti hai, jo kaam karte waqt data store karta hai. Computer band karne ke baad yeh memory clear ho jati hai.
+
+
+3. Output Devices (Result dikhane wale tools):
+Input aur processing ke baad computer jo result deta hai, use output devices ke through dikhate hain:
+
+Monitor: Yeh ek screen hoti hai jo result ya images dikhati hai.
+Printer: Yeh result ko paper pe print karta hai.
+Types:
+Laser Printer: Jaldi aur saaf print deta hai.
+Inkjet Printer: Ink se color aur black print karta hai.
+Dot Matrix Printer: Purane type ka printer jo points bana ke print karta hai.
+Plotter: Badi images ya design (like maps, blueprints) print karta hai.
+
+
+4. Utility Software (Helpful Software):
+Yeh software system ko smooth chalane aur repair karne me madad karte hain:
+
+Programming Languages: Software banane ke liye use hota hai. Examples:
+C
+C++
+Python
+Java
+
+
+5. Virus (Computer ke liye khatarnak programs):
+Kya hai: Virus ek program hota hai jo computer ko damage kar sakta hai.
+Types:
+Trojan: Hidden programs jo system ko harm karte hain.
+Worm: Jaldi-jaldi computer ke files ko copy karke storage bhar deta hai.
+Ransomware: Aapke files ko lock kar deta hai aur paise maangta hai unlock karne ke liye.
+Effects:
+Computer slow ho jata hai.
+Files delete ho sakti hain.
+Personal data chori ho sakta hai.
+Protection: Antivirus software ka use karein jaise QuickHeal, Norton, McAfee.
+
+
+6. Operating System (OS) aur uske Functions:
+Operating System ek software hai jo computer ko chalata hai aur user ko system use karne me madad karta hai.
+
+Functions (Kaam):
+Process Management: Programs ko run karta hai.
+Memory Management: RAM ka use karta hai aur data ko store karta hai.
+File Handling: Files ko open, save, aur delete karne ka kaam karta hai.
+Input/Output Management: Devices jaise mouse, keyboard, printer ko manage karta hai.
+User Interface:
+GUI (Graphical User Interface): Icons aur windows ke through easy use karta hai.
+CLI (Command Line Interface): Commands type karke computer ko chalata hai.
+
