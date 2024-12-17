@@ -70,9 +70,12 @@ Apps S/W (Application Software): Wo software jo specific tasks ke liye use hote 
 
 
 
-1. Computer kya hai?
-Computer ek electronic machine hai jo data ko process karta hai, calculations karta hai aur instructions ke according kaam karta hai.
 
+1. Computer kya hai?
+Computer ek electronic device hai jo user ke diye gaye instructions ko follow karke data ko process, store aur retrieve karta hai. Yeh calculations aur tasks ko fast aur accurately perform karta hai
+
+C.O.M.P.U.T.E.R:
+Common Operating Machine Particularly Used for Technological and Educational Research.
 
 2. Time
 Computer ka time ke sath development hua hai, purane dino ke bade machines se lekar aaj ke modern computers tak.
