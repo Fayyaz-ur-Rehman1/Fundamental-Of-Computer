@@ -431,7 +431,7 @@ Yeh motherboard ke ROM chip mein stored hota hai.
 BIOS ka kaam: Computer ko boot karna aur hardware initialize karna.
 
 ---------------------------------------------------------------------------------------------------
-
+                SET = A
 Section A
 
 Q 1 Attempt all Questions (2*10=20) 
@@ -619,3 +619,210 @@ Types of Virus:
 File Infector Virus: Executable files ko infect karta hai.
 Boot Sector Virus: Boot sector ko target karta hai.
 Macro Virus: Document macros ko infect karta hai.
+
+
+----------------------------------------------------------------------------------------------
+                SET = A
+Section A 
+a) Define BIOS? 
+
+BIOS (Basic Input/Output System) ek firmware hai jo computer ke startup pe hardware components ko initialize karta hai aur Operating System ko boot hone me madad karta hai.
+
+
+b) Write four characteristics of Digital Computer. 
+
+High Speed
+Accuracy
+Automation
+Storage Capability
+
+
+c) What do you mean by Compiler?
+
+Compiler ek program hai jo high-level language ke code ko machine language me convert karta hai taaki computer usse execute kar sake.
+
+
+d) What is Software? Write the name of different types of Software. 
+
+Software ek set of instructions hai jo computer ko specific task perform karne ke liye guide karta hai.
+Types:
+System Software
+Application Software
+Utility Software
+
+
+e) What is Batch processing Operating system? 
+
+Batch Processing Operating System ek aise system hai jo similar type ke jobs ko ek group ya "batch" me execute karta hai bina user interaction ke.
+
+
+f) Give examples of the computers classified on the basics of Size. 
+
+Micro Computer (Example: Personal Computer)
+Mini Computer (Example: PDP-11)
+Mainframe Computer (Example: IBM zSeries)
+Supercomputer (Example: Cray-1)
+
+
+g) What do you mean by scanner? 
+
+Scanner ek input device hai jo physical documents ko digital format me convert karta hai.
+
+
+
+h) How many characters a DOS file name and extension 
+have. Write four DOS file extensions name. 
+
+A DOS file name maximum 8 characters ka hota hai aur extension 3 characters ka.
+Examples: .EXE, .TXT, .BAT, .DOC
+
+
+i) Define Dot Pitch. 
+
+Dot Pitch ek display screen ki pixels ke beech ki distance ko define karta hai. Yeh lower hoga to image quality better hogi.
+
+
+j) What do you mean by Boot Sector? 
+
+Boot Sector ek special disk area hai jisme startup information store hoti hai jo Operating System ko load karne me help karta hai.
+
+
+Section B 
+
+Q2. Define Computer? Explain classification of Computer. (10 Marks) 
+
+A computer ek electronic device hai jo data ko process karke useful information provide karta hai.
+Classification of Computer:
+Based on Size: Micro, Mini, Mainframe, Supercomputer
+Based on Purpose: General-purpose, Special-purpose
+Based on Data Handling: Analog, Digital, Hybrid
+
+
+OR 
+
+What do you mean by Digital Computer? Explain generation 
+ of Computer. 
+
+ Digital Computer woh device hai jo numerical and non-numerical data ko process karta hai.
+Generations of Computer:
+First Generation (1940-1956): Vacuum tubes.
+Second Generation (1956-1963): Transistors.
+Third Generation (1964-1971): Integrated Circuits (IC).
+Fourth Generation (1971-Present): Microprocessors.
+Fifth Generation (Present and Beyond): Artificial Intelligence.
+
+
+
+ Q3.What do you mean by Primary Memory? Explain different types of Primary Memory (10 Marks)
+
+Primary Memory computer ki internal memory hoti hai jo data aur instructions temporarily store karti hai.
+Types of Primary Memory:
+RAM (Random Access Memory): Volatile memory.
+ROM (Read-Only Memory): Non-volatile memory.
+Cache Memory: High-speed memory.
+Register: CPU ki fastest memory.
+
+
+ OR
+
+
+  What is Plotter? Explain different types of Plotter. 
+
+Plotter ek output device hai jo high-quality graphics ya drawings print karta hai.
+Types of Plotters:
+Drum Plotter: Paper roll ke around rotate hota hai.
+Flatbed Plotter: Paper flat hoti hai aur pen move karta hai.
+Inkjet Plotter: Ink spray karta hai for printing.
+
+
+
+Q4. What is Programming Language? Explain types of Programming Language. 
+
+ Programming Language ek medium hai jisme instructions likhi jati hain taaki computer specific task perform kare.
+Types of Programming Language:
+Machine Language: Binary code.
+Assembly Language: Low-level mnemonics.
+High-Level Language: Easy to understand.
+
+ OR
+
+Write difference between: (2.5*4=10) 
+Hardware and Software 
+ HDD and SSD 
+ Sequential Access data retrieval and Direct Access data retrieval Method 
+ Analog and Hybrid Computer. 
+
+Aspect	Hardware              	Software
+Definition	Physical components.	Programs/Instructions.
+
+Aspect	HDD	SSD
+Speed	Slower.	Faster.
+
+Aspect	Sequential Access                       	Direct Access
+Definition	Data sequence me access hota hai.	Data ko directly fetch kar sakte ho.
+Access Speed	Slow, kyunki poora traverse karna padta hai.	Fast, seedha data milta hai.
+Examples	Magnetic tapes.	Hard drives, SSDs.
+
+Aspect	Analog	Hybrid
+Definition	Continuous data process karta hai.	Analog aur digital dono features use karta hai.
+Accuracy	Thoda less accurate hota hai.	Zyada accurate hota hai.
+Examples	Analog thermometer.	Hospitals me ECG, MRI ke hybrid computers.
+
+
+Q5. What do you mean by Video Standards? Explain different 
+ types of Video Standard. 
+
+Bhai, ye wo rules hote hain jo video signals ko dikhane aur transmit karne ke liye set kiye jate hain, taki devices ek doosre ke saath compatible ho. Isme resolution, aspect ratio, aur refresh rate aate hain.
+Types of Video Standards:
+VGA: Resolution 640x480 pixels. Purane time ka standard.
+SVGA: Thoda better, 800x600 ya zyada resolution.
+HD: 1280x720 (HD) ya 1920x1080 (Full HD).
+4K: Bohot hi mast quality, 3840x2160 pixels.
+PAL: Europe ka standard, 25 fps.
+NTSC: North America ka standard, 30 fps.
+
+
+ OR
+
+
+  What is Application Software? Explain features and types 
+of Application software.
+
+Aise programs jo ek specific kaam ke liye banaye gaye ho, jaise MS Word, Chrome, ya PUBG.
+Features:
+Easy to use.
+Kisi ek platform ke liye ya cross-platform.
+Task-specific.
+Regular updates milte hain.
+General Purpose: Word, Excel.
+Custom Software: Business-specific apps.
+Utility Software: Antivirus, backup tools.
+
+
+Q6. What is OS? Explain different types of OS. (10 Marks) 
+
+Ek aisa software jo hardware aur user ke beech ka bridge banata hai, jaise Windows, Linux.
+Types of OS:
+Batch OS: Kaam ek sequence me hota hai, user ka input nahi chahiye.
+Time-Sharing OS: Multiple users ek time pe use karte hain.
+Distributed OS: Multiple systems milke kaam karte hain.
+Real-Time OS: Instantly kaam karta hai, jaise air traffic control.
+Mobile OS: Phones ke liye, jaise Android, iOS.
+
+
+OR
+
+Define File Virus? Explain Virus detection and prevention 
+ methods. 
+
+ Ek virus jo executable files (.exe, .dll) ke saath chipak jata hai aur file chalate hi faila jata hai.
+
+Detection Methods:
+Antivirus se scan karo.
+Agar system ajeeb behave kare toh check karo.
+File ke unexpected changes ko notice karo.
+Prevention Methods:
+Updated antivirus rakho.
+Unknown emails mat kholo.
+System aur software hamesha updated rakho.
+Firewall aur real-time protection enable rakho.
