@@ -1,5 +1,5 @@
 Define :
-1 = Booting process 
+1 = Booting process , Cold Booting process , Warm Booting process
 2 = resolution
 3 = refresh rate
 4 = super , micro , mini computers 
@@ -13,10 +13,13 @@ Resolution: Screen pe jo image dikhayi deti hai, uski clarity, jo pixels ke coun
 
 Refresh rate: Yeh batata hai ki screen par ek second me kitni baar image update hoti hai.
 
-Super, micro, mini computers:
+Super, micro, mini, Mainframe,Embedded computers:
 Supercomputers: Bahut powerful computers jo complex kaam karte hain.
+Mainframe Computer: Badi companies aur banks use karti hain, multiple users ek sath kaam kar sakte hain.
 Microcomputers: Chhote personal computers, jaise desktop ya laptop.
 Minicomputers: Medium size computers, jo businesses ke liye use hote hain.
+Embedded Computer – Chhoti devices me lage hote hain (Washing Machine, ATM, Smart TV).
+
 
 Hardware, software, access, Excel:
 Hardware: Computer ke physical parts, jaise CPU, monitor, keyboard.
@@ -33,7 +36,7 @@ CU: Yeh part computer ka hota hai jo instructions ko samajhkar unhe execute kart
 7 = primary and secondry memory 
 8 = RAM & ROM its type 
 9 = LLL & HLL
-10 = Virus
+10 = virus
 11 = Interpreter computer and assembler 
 12 = DBMS, PPP , WDocument 
 13 = OS , System S/W , Apps/w
@@ -826,4 +829,3 @@ Updated antivirus rakho.
 Unknown emails mat kholo.
 System aur software hamesha updated rakho.
 Firewall aur real-time protection enable rakho.
-
