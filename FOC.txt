@@ -112,12 +112,12 @@ Purane time me storage ke liye magnetic tapes aur discs ka use hota tha.
 
 iv. Random:
 Randomly aur jaldi se data access hota hai.
-
+VD: Digital Versatile Disc
+BR
 FD: Floppy Disk
 HD: Hard Disk
 CD: Compact Disc
-DVD: Digital Versatile Disc
-BRD: Blu-ray Disc
+DD: Blu-ray Disc
 
 6. Characteristics (Khaas Baat)
 Speed: Bahut fast kaam karta hai.
@@ -126,6 +126,7 @@ Automation: Apne aap instructions follow karta hai.
 Storage: Data ko save karne ki shakti hoti hai.
 Versatility: Har kaam ke liye use ho sakta hai.
 Connectivity: Internet ya dusre devices se connect hota hai.
+
 
 7. Limitation (Kami)
 Soch nahi sakta: Sirf instructions ke basis par kaam karta hai.
