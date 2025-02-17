@@ -4,7 +4,7 @@ Define :
 3 = refresh rate
 4 = super , micro , mini computers 
 5 = hardware , softwear , acccs , excel
-6 = ALU , CU 
+6 = ALU,CU 
 
 
 Booting process: Jab aap computer on karte hain, to yeh process hota hai jisme computer apna system load karta hai.
