@@ -6,7 +6,6 @@ Define :
 5 = hardware , softwear , acccs , excel
 6 = ALU,CU 
 
-
 Booting process: Jab aap computer on karte hain, to yeh process hota hai jisme computer apna system load karta hai.
 
 Resolution: Screen pe jo image dikhayi deti hai, uski clarity, jo pixels ke count se decide hoti hai.
